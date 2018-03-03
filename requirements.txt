@@ -1,0 +1,5 @@
+gunicorn==19.7.1
+requests==2.18.4
+selenium==3.6.0
+urllib3==1.22
+virtualenv==15.1.0
